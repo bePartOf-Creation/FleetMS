@@ -225,7 +225,7 @@
 
 
 @media (max-width: 740px) {
-    #task_notificatoin_bar,#mail_notificatoin_bar,#alert_notificatoin_bar{
+    #task_notification_bar,#mail_notificatoin_bar,#alert_notificatoin_bar{
         display: none;
     }
 }
